@@ -11,4 +11,4 @@ def greet():
     print(message)
 
 
-greet()
+greet('Inoue')
